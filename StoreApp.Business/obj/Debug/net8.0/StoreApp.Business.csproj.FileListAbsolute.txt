@@ -1,0 +1,17 @@
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.Business.deps.json
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.Business.dll
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.Business.pdb
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.DataAccess.dll
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.DataAccess.pdb
+D:\StoreApp\StoreApp.Business\bin\Debug\net8.0\StoreApp.Entities.pdb
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.csproj.AssemblyReference.cache
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.AssemblyInfoInputs.cache
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.AssemblyInfo.cs
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.csproj.CoreCompileInputs.cache
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.58117373.Up2Date
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.dll
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\refint\StoreApp.Business.dll
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.pdb
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\ref\StoreApp.Business.dll

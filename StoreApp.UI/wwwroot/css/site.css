@@ -1,0 +1,64 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/*Custom Csss Bşlangıç*/
+
+.product-image-container {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.list-group-item.active {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.list-group-item {
+  transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+  background-color: #f8f9fa;
+}
+
+/* Kategoriler ve ürünler arasındaki boşluğu ayarlama */
+.col-md-3 {
+  padding-right: 15px; /* Kategoriler ile ürünler arasındaki boşluğu ayarlar */
+}
+
+.col-md-9 {
+  padding-left: 15px; /* Kategoriler ile ürünler arasındaki boşluğu ayarlar */
+}
+
+/*Custom Csss Bitiş*/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+

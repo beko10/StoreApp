@@ -1,0 +1,11 @@
+D:\StoreApp\StoreApp.Entities\bin\Debug\net8.0\StoreApp.Entities.deps.json
+D:\StoreApp\StoreApp.Entities\bin\Debug\net8.0\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.Entities\bin\Debug\net8.0\StoreApp.Entities.pdb
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.AssemblyInfoInputs.cache
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.AssemblyInfo.cs
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.csproj.CoreCompileInputs.cache
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\refint\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.pdb
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\ref\StoreApp.Entities.dll

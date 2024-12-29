@@ -1,0 +1,11 @@
+@model IEnumerable<GetCategoryDto>
+
+<div class="list-group">
+    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">
+        Tüm Kategoriler
+    </a>
+    @foreach (var category in Model)
+    {
+        <a href="#" class="list-group-item list-group-item-action">@category.Name</a>
+    }
+</div>

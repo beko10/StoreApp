@@ -1,0 +1,17 @@
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.DataAccess.deps.json
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.DataAccess.dll
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.DataAccess.pdb
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.Entities.pdb
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.csproj.AssemblyReference.cache
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.AssemblyInfoInputs.cache
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.AssemblyInfo.cs
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.E12D8B67.Up2Date
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.dll
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\refint\StoreApp.DataAccess.dll
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.pdb
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\ref\StoreApp.DataAccess.dll
+D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.DataAccess.runtimeconfig.json
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.genruntimeconfig.cache
