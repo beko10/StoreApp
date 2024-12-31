@@ -7,11 +7,16 @@ public class ProductMapping : Profile
 {
     public ProductMapping()
     {
-        CreateMap<Product, GetProductDto>()
-            .ReverseMap();
-        CreateMap<Product, CreateProductDto>()
+        CreateMap<Product, GetProductDto>().ReverseMap();
+
+        CreateMap<Product, CreateProductDto>().ReverseMap();
+            
+        CreateMap<Product, UpdateProductDto>().ReverseMap();
+
+        CreateMap<GetProductDto,UpdateProductDto>().ReverseMap();
+
+        CreateMap<Product, GetProductDetailDto>()
             .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category!.Name))
             .ReverseMap();
-        CreateMap<Product, UpdateProductDto>().ReverseMap();
     }
 }

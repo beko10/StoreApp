@@ -9,4 +9,6 @@ public interface IProductService
     Task<Result> UpdateAsync(UpdateProductDto updateProductDto);
     Task<Result> DeleteAsync(string id);
     Task<DataResult<int>> GetProductCountAsync(bool track = true);
+    Task<DataResult<IEnumerable<GetProductDetailDto>>> GetProductsDetailAsync(bool track = true);
+    Task<DataResult<GetProductDetailDto>> GetProductDetailByIdAsync(string id, bool track = true);
 }

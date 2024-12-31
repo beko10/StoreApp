@@ -15,3 +15,4 @@ D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.dll
 D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\refint\StoreApp.Business.dll
 D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.pdb
 D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\ref\StoreApp.Business.dll
+D:\StoreApp\StoreApp.Business\obj\Debug\net8.0\StoreApp.Business.sourcelink.json

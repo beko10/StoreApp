@@ -154,3 +154,6 @@ D:\StoreApp\StoreApp.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.
 D:\StoreApp\StoreApp.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\StoreApp\StoreApp.UI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\StoreApp\StoreApp.UI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\StoreApp\StoreApp.UI\obj\Debug\net8.0\StoreApp.UI.sourcelink.json
+D:\StoreApp\StoreApp.UI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\StoreApp\StoreApp.UI\obj\Debug\net8.0\StoreApp.UI.MvcApplicationPartsAssemblyInfo.cs

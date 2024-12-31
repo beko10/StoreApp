@@ -9,3 +9,4 @@ D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.dll
 D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\refint\StoreApp.Entities.dll
 D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.pdb
 D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\ref\StoreApp.Entities.dll
+D:\StoreApp\StoreApp.Entities\obj\Debug\net8.0\StoreApp.Entities.sourcelink.json

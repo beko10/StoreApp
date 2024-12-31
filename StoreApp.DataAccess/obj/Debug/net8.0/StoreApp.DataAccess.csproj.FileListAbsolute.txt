@@ -15,3 +15,4 @@ D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.pdb
 D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\ref\StoreApp.DataAccess.dll
 D:\StoreApp\StoreApp.DataAccess\bin\Debug\net8.0\StoreApp.DataAccess.runtimeconfig.json
 D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.genruntimeconfig.cache
+D:\StoreApp\StoreApp.DataAccess\obj\Debug\net8.0\StoreApp.DataAccess.sourcelink.json

@@ -29,20 +29,20 @@ public class ProductManager : IProductService
     public async Task<DataResult<IEnumerable<GetProductDto>>> GetAllAsync(bool track = true)
     {
         var productList = await _unitOfWork.ProductRepository.GetAll(track).ToListAsync();
-        if(!productList.Any())
+        if (!productList.Any())
         {
             throw new NotFoundException(ConstantMessages.ProductMessages.ProductListNotFound);
         }
 
         var productListMapping = _mapper.Map<IEnumerable<GetProductDto>>(productList);
         return DataResult<IEnumerable<GetProductDto>>.Success(productListMapping, ConstantMessages.ProductMessages.ProductsListed);
-        
+
     }
 
-    public  async Task<DataResult<GetProductDto>> GetByIdAsync(string id,bool track = true)
+    public async Task<DataResult<GetProductDto>> GetByIdAsync(string id, bool track = true)
     {
         var product = await _unitOfWork.ProductRepository.GetByIdAsync(id, track);
-        if(product == null)
+        if (product == null)
         {
             throw new NotFoundException(ConstantMessages.ProductMessages.ProductNotFound);
         }
@@ -62,7 +62,7 @@ public class ProductManager : IProductService
     public async Task<Result> DeleteAsync(string id)
     {
         var productExist = await _unitOfWork.ProductRepository.GetByIdAsync(id);
-        if(productExist == null)
+        if (productExist == null)
         {
             throw new NotFoundException(ConstantMessages.ProductMessages.ProductNotFound);
         }
@@ -73,13 +73,13 @@ public class ProductManager : IProductService
     }
     public async Task<Result> UpdateAsync(UpdateProductDto updateProductDto)
     {
-        if(updateProductDto.Id == null)
+        if (updateProductDto.Id == null)
         {
             throw new ArgumentException("Id alanı boş olamaz.");
         }
         await ValidationHelper.ValidationWithFluent(_updateProductValidator, updateProductDto);
         var productExist = await _unitOfWork.ProductRepository.GetByIdAsync(updateProductDto.Id);
-        if(productExist == null)
+        if (productExist == null)
         {
             throw new NotFoundException(ConstantMessages.ProductMessages.ProductNotFound);
         }
@@ -89,15 +89,40 @@ public class ProductManager : IProductService
         return Result.Success(ConstantMessages.ProductMessages.ProductUpdated);
     }
 
-    public async Task<DataResult<int>>  GetProductCountAsync(bool track = true)
+    public async Task<DataResult<int>> GetProductCountAsync(bool track = true)
     {
         var productCount = await _unitOfWork.ProductRepository.GetTotalProductCountAsync(false);
-        if(productCount > -1)
+        if (productCount > -1)
         {
             return DataResult<int>.Success(productCount, ConstantMessages.ProductMessages.ProductsListed);
         }
         return DataResult<int>.Error(-1, ConstantMessages.ProductMessages.ProductListNotFound);
     }
 
-    
+    public async Task<DataResult<IEnumerable<GetProductDetailDto>>> GetProductsDetailAsync(bool track = true)
+    {
+        var productsDetail = await _unitOfWork.ProductRepository.GetAllProductsDetail(track).ToListAsync();
+        if (!productsDetail.Any())
+        {
+            throw new NotFoundException(ConstantMessages.ProductMessages.ProductListNotFound);
+        }
+        var productsDetailMapping = _mapper.Map<IEnumerable<GetProductDetailDto>>(productsDetail);
+        return DataResult<IEnumerable<GetProductDetailDto>>.Success(productsDetailMapping, ConstantMessages.ProductMessages.ProductsListed);
+    }
+
+    public async Task<DataResult<GetProductDetailDto>> GetProductDetailByIdAsync(string id, bool track = true)
+    {
+        var productDetail = await _unitOfWork.ProductRepository.GetProductDetailByIdAsync(id, track);
+        if (productDetail == null)
+        {
+            throw new NotFoundException(ConstantMessages.ProductMessages.ProductNotFound);
+        }
+        var productDetailMapping = _mapper.Map<GetProductDetailDto>(productDetail);
+
+        if (!string.IsNullOrEmpty(productDetailMapping.ImageUrl) && !productDetailMapping.ImageUrl.StartsWith("/"))
+        {
+            productDetailMapping.ImageUrl = "/" + productDetailMapping.ImageUrl;
+        }
+        return DataResult<GetProductDetailDto>.Success(productDetailMapping, ConstantMessages.ProductMessages.ProductFound);
+    }
 }

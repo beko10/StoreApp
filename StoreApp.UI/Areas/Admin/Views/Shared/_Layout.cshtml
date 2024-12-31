@@ -1,0 +1,44 @@
+@{
+    Layout = null; // Kendi layout içinde tekrar layout kullanmıyoruz
+    ViewData["Title"] = "Admin Panel";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>@ViewData["Title"] - @ViewBag.Title</title>
+    
+    <!-- Bootstrap CSS (örnek) -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Site genelindeki CSS -->
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <!-- Navbar Kısmı -->
+    @await Html.PartialAsync("_Navbar")
+
+    <!-- İçerik Alanı -->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Sidebar -->
+            <div class="col-md-2">
+                @await Html.PartialAsync("_Sidebar")
+            </div>
+
+            <!-- Ana İçerik -->
+            <div class="col-md-10">
+                <main class="p-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scriptler -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

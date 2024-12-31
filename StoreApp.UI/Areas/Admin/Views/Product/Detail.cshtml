@@ -1,0 +1,49 @@
+@model GetProductDetailDto
+
+<div class="container mt-4">
+    <h1 class="text-center">Ürün Detayları</h1>
+    <hr />
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h2>@Model.Name</h2>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-4">
+                    <!-- Ürün Görseli -->
+                    <img src="@Model.ImageUrl" class="img-fluid rounded" alt="@Model.Name" />
+                </div>
+                <div class="col-md-8">
+                    <!-- Ürün Bilgileri -->
+                    <table class="table table-striped">
+                        <tbody>
+                            <tr>
+                                <th>Kategori:</th>
+                                <td>@Model.CategoryName</td>
+                            </tr>
+                            <tr>
+                                <th>Fiyat:</th>
+                                <td>@Model.Price.ToString("C")</td>
+                            </tr>
+                            <tr>
+                                <th>Stok:</th>
+                                <td>@Model.Stock</td>
+                            </tr>
+                            <tr>
+                                <th>Açıklama:</th>
+                                <td>@Model.Description</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer text-center">
+            <!-- Geri Dön Butonu (Tag Helper Kullanılarak) -->
+            <a asp-action="Index" asp-controller="Product" asp-area="Admin" class="btn btn-secondary">
+                <i class="fa fa-arrow-left"></i> Geri Dön
+            </a>
+        </div>
+    </div>
+</div>
