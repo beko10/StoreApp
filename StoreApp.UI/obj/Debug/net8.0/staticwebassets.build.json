@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "th4+W/0qA50cJ58iJYH/+DUzoR1c+od+gKcJ3aSm8Fw=",
+  "Hash": "UFkl+y8Q0veefyj5gAgUQBmQ4HeS87nPKeYgLZkFK30=",
   "Source": "StoreApp.UI",
   "BasePath": "_content/StoreApp.UI",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "StoreApp.UI\\wwwroot",
       "Source": "StoreApp.UI",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "Pattern": "**"
     }
@@ -62,7 +62,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\css\\site.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -83,7 +83,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\favicon.ico",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,703 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/11634ee6-9112-41c9-becc-a33722cea905_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/1448c05d-9647-4d47-a473-1445e7399121_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxczfpze6x",
+      "Integrity": "N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/2caef366-0f2b-4c48-bf84-f7df30913781_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/61bd54f5-4327-47da-bc25-512529005512_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/61f20b2f-b505-4ab3-b563-022c500ad909_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ljz9fpv6ic",
+      "Integrity": "Mf8b+MfG1eIrH+BjEcw34fj9D+oF+bewAnCPM0MzFxI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jxczfpze6x",
+      "Integrity": "N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/db91b484-7807-46d8-ba5a-8189acb67179_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f141241e-24b0-4744-918e-712db657154c_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/f141241e-24b0-4744-918e-712db657154c_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f141241e-24b0-4744-918e-712db657154c_iphone14.jpg"
+    },
+    {
+      "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg",
+      "SourceId": "StoreApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "BasePath": "_content/StoreApp.UI",
+      "RelativePath": "images/f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pg7n3hranf",
+      "Integrity": "d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg"
+    },
+    {
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\galaxys23.jpg",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "images/galaxys23#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -125,7 +818,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\iphone14.jpg",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "images/iphone14#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -146,7 +839,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\js\\site.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -167,7 +860,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -188,7 +881,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -209,7 +902,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -230,7 +923,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -251,7 +944,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -272,7 +965,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -293,7 +986,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -314,7 +1007,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -335,7 +1028,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -356,7 +1049,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -377,7 +1070,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -398,7 +1091,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -419,7 +1112,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -440,7 +1133,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -461,7 +1154,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -482,7 +1175,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -503,7 +1196,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -524,7 +1217,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -545,7 +1238,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -566,7 +1259,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -587,7 +1280,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -608,7 +1301,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -629,7 +1322,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -650,7 +1343,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -671,7 +1364,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -692,7 +1385,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -713,7 +1406,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -734,7 +1427,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -755,7 +1448,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -776,7 +1469,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -797,7 +1490,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -818,7 +1511,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -839,7 +1532,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -860,7 +1553,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -881,7 +1574,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -902,7 +1595,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -923,7 +1616,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -944,7 +1637,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -965,7 +1658,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -986,7 +1679,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1007,7 +1700,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1028,7 +1721,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1049,7 +1742,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1070,7 +1763,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1091,7 +1784,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1112,7 +1805,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1133,7 +1826,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1154,7 +1847,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1175,7 +1868,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1196,7 +1889,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1217,7 +1910,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1238,7 +1931,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1259,7 +1952,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1280,7 +1973,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1301,7 +1994,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1322,7 +2015,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1343,7 +2036,7 @@
       "Identity": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StoreApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\StoreApp\\StoreApp.UI\\wwwroot\\",
+      "ContentRoot": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\",
       "BasePath": "_content/StoreApp.UI",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1523,6 +2216,2712 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/07a5e35a-9c7e-4b4b-97e6-f1702011999b_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/11634ee6-9112-41c9-becc-a33722cea905_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/11634ee6-9112-41c9-becc-a33722cea905_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/12fd0aac-2350-4ad6-bf85-dd5d067b8d3d_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/1448c05d-9647-4d47-a473-1445e7399121_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1448c05d-9647-4d47-a473-1445e7399121_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/14efa12c-64f4-4bd1-b7ad-5289ea6d7936_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.jxczfpze6x.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxczfpze6x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI="
+        }
+      ]
+    },
+    {
+      "Route": "images/16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\16a6a07d-0cff-4574-931f-c7d8e5cf88d4_Ekran görüntüsü 2024-10-18 215146.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1f70d142-68a0-4c41-9be6-5e6fe28098c1_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2caef366-0f2b-4c48-bf84-f7df30913781_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/30b721d6-a7ed-49cb-bbe3-a12cf7906cb4_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/397bb62a-8ab6-48a0-a88e-9e1633b16127_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/39fbd7c9-a54f-4800-8ec1-0d42d4a4ec77_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3db7b641-8e91-4f2a-a096-27369d1fd459_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5a018ba9-1b81-4969-a91d-0495bc6952c5_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/61bd54f5-4327-47da-bc25-512529005512_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/61bd54f5-4327-47da-bc25-512529005512_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/61f20b2f-b505-4ab3-b563-022c500ad909_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6f9e01b7-1de1-41b1-a9ea-a0fa10c0e544_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7162d4e6-a62a-4131-9f78-9549f5592da1_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8108e64f-60c2-4d7c-9a21-6bf57762d8dd_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.ljz9fpv6ic.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf8b+MfG1eIrH+BjEcw34fj9D+oF+bewAnCPM0MzFxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 16:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ljz9fpv6ic"
+        },
+        {
+          "Name": "label",
+          "Value": "images/868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf8b+MfG1eIrH+BjEcw34fj9D+oF+bewAnCPM0MzFxI="
+        }
+      ]
+    },
+    {
+      "Route": "images/868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\868bb2c7-ae53-4cbd-b3ae-545b1d0aa8e8_Ekran görüntüsü 2024-12-27 225620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10419"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mf8b+MfG1eIrH+BjEcw34fj9D+oF+bewAnCPM0MzFxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 16:36:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mf8b+MfG1eIrH+BjEcw34fj9D+oF+bewAnCPM0MzFxI="
+        }
+      ]
+    },
+    {
+      "Route": "images/8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8ac8fa79-eef2-4a20-96a0-acd64f92688f_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8dee7f39-725d-483e-bd7c-6fb2661fde62_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.jxczfpze6x.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jxczfpze6x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI="
+        }
+      ]
+    },
+    {
+      "Route": "images/9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\9435c786-2817-4b42-bc38-c932bcfa65ca_Ekran görüntüsü 2024-10-18 215146.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91014"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N08kKp8XhjsU7VClNMy6FViYe3MW7sdB9TLPbBcC+LI="
+        }
+      ]
+    },
+    {
+      "Route": "images/a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a2a8954d-3aec-4995-80a1-6b5995f845f3_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/be09ce4e-bef1-4e08-b7a4-e5dbfeaaaa93_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/bf822a25-55e5-4670-9069-d7d1866c92aa_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:16:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d917c1f8-ff80-4999-8e1c-0758e79cfb0f_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/db91b484-7807-46d8-ba5a-8189acb67179_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/db91b484-7807-46d8-ba5a-8189acb67179_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:15:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:15:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/dfa64c6e-dd65-4a7d-b7aa-9ebb801fb4a0_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ebd6c8a7-e4c0-4abc-b209-74c216432e3b_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f141241e-24b0-4744-918e-712db657154c_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f141241e-24b0-4744-918e-712db657154c_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:15:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f141241e-24b0-4744-918e-712db657154c_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f141241e-24b0-4744-918e-712db657154c_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:15:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f141241e-24b0-4744-918e-712db657154c_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "D:\\StoreApp\\StoreApp.UI\\wwwroot\\images\\f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:17:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f43c3ab9-b48a-4516-a122-4f0969e48066_iphone14.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
         }
       ]
     },

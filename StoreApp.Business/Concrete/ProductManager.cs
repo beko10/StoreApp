@@ -1,4 +1,3 @@
-using System.Data.Common;
 using AutoMapper;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
@@ -19,17 +18,19 @@ public class ProductManager : IProductService
     private readonly IMapper _mapper;
     private readonly IValidator<CreateProductDto> _createProductValidator;
     private readonly IValidator<UpdateProductDto> _updateProductValidator;
-    public ProductManager(IUnitOfWork unitOfWork, IMapper mapper, IValidator<CreateProductDto> createProductValidator, IValidator<UpdateProductDto> updateProductValidator)
+    private readonly IFileService _fileService;
+    public ProductManager(IUnitOfWork unitOfWork, IMapper mapper, IValidator<CreateProductDto> createProductValidator, IValidator<UpdateProductDto> updateProductValidator, IFileService fileService)
     {
         _unitOfWork = unitOfWork;
         _mapper = mapper;
         _createProductValidator = createProductValidator;
         _updateProductValidator = updateProductValidator;
+        _fileService = fileService;
     }
     public async Task<DataResult<IEnumerable<GetProductDto>>> GetAllAsync(bool track = true)
     {
         var productList = await _unitOfWork.ProductRepository.GetAll(track).ToListAsync();
-        if (!productList.Any())
+        if (productList.Count() < -1)
         {
             throw new NotFoundException(ConstantMessages.ProductMessages.ProductListNotFound);
         }
@@ -119,10 +120,10 @@ public class ProductManager : IProductService
         }
         var productDetailMapping = _mapper.Map<GetProductDetailDto>(productDetail);
 
-        if (!string.IsNullOrEmpty(productDetailMapping.ImageUrl) && !productDetailMapping.ImageUrl.StartsWith("/"))
-        {
-            productDetailMapping.ImageUrl = "/" + productDetailMapping.ImageUrl;
-        }
+        // if (!string.IsNullOrEmpty(productDetailMapping.ImageUrl) && !productDetailMapping.ImageUrl.StartsWith("/"))
+        // {
+        //     productDetailMapping.ImageUrl = "/" + productDetailMapping.ImageUrl;
+        // }
         return DataResult<GetProductDetailDto>.Success(productDetailMapping, ConstantMessages.ProductMessages.ProductFound);
     }
 }

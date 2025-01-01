@@ -1,8 +1,8 @@
-@model UpdateProductDto
+@model UpdateProductViewModel
 
 <h1>Ürün Güncelle</h1>
 
-<form asp-action="Update" method="post">
+<form asp-action="Update" method="post" enctype="multipart/form-data">
 
     <!-- Genel Hata Mesajları -->
     <div class="text-danger" asp-validation-summary="All"></div>
@@ -26,9 +26,13 @@
     </div>
 
     <div class="mb-3">
-        <label asp-for="ImageUrl" class="form-label"></label>
-        <input asp-for="ImageUrl" class="form-control" />
-        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        @if (!string.IsNullOrEmpty(Model.ImageUrl))
+        {
+            <img src="/uploads/@Model.ImageUrl" alt="Ürün Resmi" style="max-width: 200px;" class="mb-2" />
+        }
+        <label asp-for="ImageFile" class="form-label">Ürün Resmi</label>
+        <input asp-for="ImageFile" type="file" class="form-control" accept="image/*" />
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
     </div>
 
     <div class="mb-3">

@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using StoreApp.Business.Abstract;
 using StoreApp.Entities.Dto;
+using StoreApp.UI.Areas.Admin.Models;
 
 namespace StoreApp.UI.Areas.Admin.Controllers;
 
@@ -13,12 +14,14 @@ public class ProductController : Controller
     private readonly IProductService _productService;
     private readonly ICategoryService _categoryService;
     private readonly IMapper _mapper;
+    private readonly IFileService _fileService;
 
-    public ProductController(IProductService productService, ICategoryService categoryService, IMapper mapper)
+    public ProductController(IProductService productService, ICategoryService categoryService, IMapper mapper, IFileService fileService)
     {
         _productService = productService;
         _categoryService = categoryService;
         _mapper = mapper;
+        _fileService = fileService;
     }
 
     public async Task<IActionResult> Index()
@@ -44,7 +47,7 @@ public class ProductController : Controller
 
     [HttpPost]
     [ValidateAntiForgeryToken]
-    public async Task<IActionResult> Create(CreateProductDto createProductDto)
+    public async Task<IActionResult> Create(CreateProductViewModel createProductViewModel)
     {
         if (!ModelState.IsValid)
         {
@@ -55,8 +58,21 @@ public class ProductController : Controller
                 return View(selectedListCategoryResult.Message);
             }
             ViewBag.CategorySelectList = new SelectList(selectedListCategoryResult.Data, "Id", "Name");
-            return View(createProductDto);
+            return View(createProductViewModel);
         }
+        //dosya işlemleri
+        string  imageUrl = await _fileService.UploadProductImageFileAsync(createProductViewModel.ImageFile);
+        
+        var createProductDto = new CreateProductDto
+        {
+            Name = createProductViewModel.Name,
+            Description = createProductViewModel.Description,
+            Price = createProductViewModel.Price,
+            Stock = createProductViewModel.Stock,
+            ImageUrl = imageUrl,
+            CategoryId = createProductViewModel.CategoryId
+        };
+
         var result = await _productService.AddAsync(createProductDto);
         if (result.IsSuccess)
         {
@@ -120,6 +136,9 @@ public class ProductController : Controller
 
         // Hata durumunda kullanıcıya mesaj göster
         ModelState.AddModelError(string.Empty, result.Message ?? "Ürün güncellenirken bir hata oluştu.");
+
+        //Dosya işlemleri 
+        
         var categoriesRetry = await _categoryService.GetAllAsync(false);
         ViewBag.CategorySelectList = new SelectList(categoriesRetry.Data, "Id", "Name");
         return View(updateProductDto);

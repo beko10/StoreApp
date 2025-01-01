@@ -41,6 +41,7 @@ builder.Services.AddValidatorsFromAssemblyContaining<UpdateProductValidator>();
 builder.Services.AddValidatorsFromAssemblyContaining<UpdateCategoryValidator>();
 builder.Services.AddValidatorsFromAssemblyContaining<CreateCategoryValidator>();
 
+builder.Services.AddScoped<IFileService, FileManager>();
 
 var app = builder.Build();
 

@@ -13,7 +13,7 @@ public class CreateProductValidator : AbstractValidator<CreateProductDto>
             .NotEmpty().WithMessage("Ürün adı boş olamaz")
             .MinimumLength(3).WithMessage("Ürün adı en az 3 karakter olmalıdır")
             .MaximumLength(100).WithMessage("Ürün adı en fazla 100 karakter olmalıdır")
-            .Matches(RegexPatterns.OnlyLetters).WithMessage("Ürün adı özel karakter içeremez");
+            .Matches(RegexPatterns.OnlyLettersAndNumbers).WithMessage("Ürün adı özel karakter içeremez");
 
         RuleFor(x => x.Price)
             .NotEmpty().WithMessage("Fiyat boş olamaz")

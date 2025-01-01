@@ -4052,8 +4052,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\StoreApp\\StoreApp.Entities\\StoreApp.Entities.csproj": {
-              "projectPath": "d:\\StoreApp\\StoreApp.Entities\\StoreApp.Entities.csproj"
+            "D:\\StoreApp\\StoreApp.Entities\\StoreApp.Entities.csproj": {
+              "projectPath": "D:\\StoreApp\\StoreApp.Entities\\StoreApp.Entities.csproj"
             }
           }
         }
