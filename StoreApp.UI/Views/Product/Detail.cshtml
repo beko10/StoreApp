@@ -1,0 +1,30 @@
+@model GetProductDto
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Ürün Detayları -->
+        <div class="col-md-8 offset-md-2">
+            <div class="card">
+                <div class="row no-gutters">
+                    <!-- Ürün Resmi -->
+                    <div class="col-md-6">
+                        <div class="product-image-container">
+                            <img src="@Model.ImageUrl" class="card-img-top product-image" alt="@Model.Name">
+                        </div>
+                    </div>
+                    <!-- Ürün Bilgileri -->
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <h2 class="card-title">@Model.Name</h2>
+                            <p class="card-text">@Model.Description</p>
+                            <p class="card-text"><strong>Price:</strong> @Model.Price.ToString("C")</p>
+                            <p class="card-text"><strong>Stock:</strong> @Model.Stock</p>   
+                            <a asp-action="Index" class="btn btn-secondary">Geri Dön</a>
+                            <a href="#" class="btn btn-success">Sepete Ekle</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

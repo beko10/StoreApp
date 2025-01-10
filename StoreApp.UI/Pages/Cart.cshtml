@@ -1,0 +1,48 @@
+@page "/Cart"
+@using StoreApp.Entities.Entity
+@model CartModel
+
+<div>
+    <div class="text-center display-6">
+        Cart
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Ürün</th>
+                <th>Miktar</th>
+                <th>Fiyat</th>
+                <th>Toplam Fiyat</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model.Cart?.CartItems ?? Enumerable.Empty<CartItem>())
+                {
+                    <tr>
+                        <td>@item.Product.Name</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Product.Price.ToString("c")</td>
+                        <td>@((item.Product.Price * item.Quantity).ToString("c2"))</td>
+                        <td>
+                            <form method="post" asp-page-handler="Remove">
+                                <input type="hidden" name="id" value="@item.Product.Id">
+                                <input type="hidden" name="returnUrl" value="@Model.ReturnUrl">
+                                <button type="submit" class="btn btn-danger">
+                                    Sil
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right">Toplam Fiyat:</td>
+                <td class="text-right text-danger">
+                    @Model.Cart?.GetTotalPrice().ToString("c")
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</div>   

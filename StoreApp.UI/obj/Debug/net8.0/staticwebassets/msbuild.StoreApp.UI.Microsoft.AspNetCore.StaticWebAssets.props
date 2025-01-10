@@ -270,6 +270,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4016a58d-0d3c-4515-8c94-7da86a4a5639_iphone14.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StoreApp.UI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StoreApp.UI</BasePath>
+      <RelativePath>images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pg7n3hranf</Fingerprint>
+      <Integrity>d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>StoreApp.UI</SourceId>

@@ -21,4 +21,15 @@ public class ProductController:Controller
         }
         return View(result.Message);
     }
+
+    public async Task<IActionResult> Detail(string id)
+    {
+        var result = await _productService.GetByIdAsync(id);
+
+        if(result.IsSuccess)
+        {
+            return View(result.Data);
+        }
+        return View(result.Message);
+    }
 }

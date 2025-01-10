@@ -10,12 +10,14 @@ using StoreApp.DataAccess.Abstract;
 using StoreApp.DataAccess.Concrete;
 using StoreApp.DataAccess.Context;
 using StoreApp.DataAccess.UnitOfWork;
+using StoreApp.Entities.Entity;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddRazorPages();
 
 // Database
 builder.Services.AddDbContext<AppDbContext>(options =>
@@ -43,6 +45,9 @@ builder.Services.AddValidatorsFromAssemblyContaining<CreateCategoryValidator>();
 
 builder.Services.AddScoped<IFileService, FileManager>();
 
+builder.Services.AddSingleton<Cart>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -68,5 +73,8 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+app.MapRazorPages();
 
 app.Run();

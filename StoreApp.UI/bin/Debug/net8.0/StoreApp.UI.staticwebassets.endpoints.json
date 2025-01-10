@@ -1315,6 +1315,88 @@
       ]
     },
     {
+      "Route": "images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg",
+      "AssetFile": "images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        }
+      ]
+    },
+    {
+      "Route": "images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.pg7n3hranf.jpg",
+      "AssetFile": "images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 01 Jan 2025 17:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pg7n3hranf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d4PlBpAXlOXPiozt+Y3El8P4stipdA8HctWkM/vUusk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/4064191a-fd7c-4168-872b-6f564625d09f_iphone14.jpg"
+        }
+      ]
+    },
+    {
       "Route": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
       "AssetFile": "images/57c13be5-b64e-43ae-9fe5-5ac59affddf1_iphone14.jpg",
       "Selectors": [],

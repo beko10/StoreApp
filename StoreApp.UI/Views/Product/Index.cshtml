@@ -22,7 +22,17 @@
                                 <p class="card-text">@product.Description</p>
                                 <p class="card-text"><strong>Price:</strong> @product.Price.ToString("C")</p>
                                 <p class="card-text"><strong>Stock:</strong> @product.Stock</p>
-                                <a href="#" class="btn btn-primary">Go somewhere</a>
+                                <div class="btn btn-group">
+                                    <a asp-action="Detail" asp-route-id="@product.Id" class="btn btn-primary">Ürün Detay</a>
+
+                                    <form id="@product.Id" asp-page="/Cart" method="post">
+                                        <input name="id" value="@product.Id" type="hidden">
+                                        <input type="hidden" name="returnUrl" value="/">
+                                        <button type="submit" class="btn btn-success">
+                                            Sepete Ekle
+                                        </button>
+                                    </form>
+                                </div>
                             </div>
                         </div>
                     </div>
